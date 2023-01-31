@@ -1,4 +1,4 @@
-# Text-Analytics
+# Text Analytics
 
 
 As we have seen cases of different types of data and different ways of processing them to obtain important information out of them, in this section we will talk about one of the most sought upon data in today’s time. 
